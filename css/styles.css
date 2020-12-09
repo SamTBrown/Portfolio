@@ -5,7 +5,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #343a40;
+  color: #16a3a3;
 }
 
 hr {
@@ -14,10 +14,10 @@ hr {
 }
 
 a {
-  color: #8c4fa7;
+  color: #6c757d;
 }
 a:hover {
-  color: #93ada4;
+  color: #907b99;
   text-decoration: none;
 }
 
@@ -30,7 +30,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Anton', sans-serif; bold
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
@@ -81,12 +81,12 @@ header.masthead {
   font-size: 1.2rem;
 }
 
-.cv-titles {
+.resume-titles {
   margin-bottom: 0.5rem;
   font-family: 'Anton', sans-serif;
   font-weight: 450;
   line-height: 1.2;
-  color: #343a40;
+  color: #16a3a3;
 }
 
 .font-italic {
@@ -94,7 +94,7 @@ header.masthead {
 }
 
 .text-primary {
-  color: #5f5952 !important;
+  color: #16a3a3 !important;
 }
 
 .text-dark {
@@ -107,20 +107,20 @@ header.masthead {
   justify-content: center;
   height: 3rem;
   width: 3rem;
-  background-color: #6c757d;
+  background-color: #16a3a3;
   color: #f8f9fa;
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
 }
 
-.cv-social-icons .cv-social-icon {
+.resume-social-icons .resume-social-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   height: 4rem;
   width: 4rem;
-  background-color: #6c757d;
+  background-color: #16a3a3;
   color: #f8f9fa;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -147,13 +147,13 @@ header.masthead {
 /* CV navbar styling */
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #8c4fa7;
 }
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-  color: #fff;
+  color: #8c4fa7;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: #f3a14b;
+  color: #8c4fa7;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: #93ada4;
@@ -395,7 +395,7 @@ header.masthead {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #93ada4;
+  background: #907b99;
   align-items: center;
   justify-content: center;
   opacity: 0;
